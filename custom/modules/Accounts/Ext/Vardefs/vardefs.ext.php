@@ -15,6 +15,12 @@ $dictionary["Account"]["fields"]["st_time_management_accounts"] = array (
 );
 
 
+ // created: 2025-02-03 11:46:55
+$dictionary['Account']['fields']['c_id_c']['inline_edit']='1';
+$dictionary['Account']['fields']['c_id_c']['labelValue']='Company id';
+
+ 
+
  // created: 2025-01-29 17:27:39
 $dictionary['Account']['fields']['jjwg_maps_address_c']['inline_edit']=1;
 

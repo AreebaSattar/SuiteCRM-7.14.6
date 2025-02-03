@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:54:22
+// created: 2025-02-03 11:46:55
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created:',
@@ -137,4 +137,5 @@ $mod_strings = array (
   'LBL_LIST_WEBSITE' => 'website',
   'LBL_ST_TIME_MANAGEMENT_ACCOUNTS_FROM_ST_TIME_MANAGEMENT_TITLE' => 'Time Management',
   'LBL_MEMBERS' => 'Members',
+  'LBL_C_ID' => 'Company id',
 );

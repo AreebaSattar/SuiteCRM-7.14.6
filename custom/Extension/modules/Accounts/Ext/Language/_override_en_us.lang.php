@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:53:58
+// created: 2025-02-03 11:46:55
 $mod_strings['LNK_NEW_ACCOUNT'] = 'Create Company';
 $mod_strings['LNK_ACCOUNT_LIST'] = 'View Companies';
 $mod_strings['LNK_IMPORT_ACCOUNTS'] = 'Import Companies';
@@ -13,3 +13,4 @@ $mod_strings['LBL_MEMBER_ORG_SUBPANEL_TITLE'] = 'Member Organizations';
 $mod_strings['LBL_HOMEPAGE_TITLE'] = 'My Companies';
 $mod_strings['LBL_PARENT_ACCOUNT_ID'] = 'Parent Company ID';
 $mod_strings['LBL_MODULE_NAME'] = 'Companies';
+$mod_strings['LBL_C_ID'] = 'Company id';
