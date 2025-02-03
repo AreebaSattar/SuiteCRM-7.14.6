@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:54:21
+// created: 2025-02-03 11:36:32
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -417,4 +417,5 @@ $mod_strings = array (
   'LBL_PROSPECT_LISTS' => 'Prospect Lists',
   'LBL_SURVEYRESPONSES_CAMPAIGNS_FROM_SURVEYRESPONSES_TITLE' => 'Survey Responses',
   'LBL_CAMPAIGN_SURVEY' => 'Survey',
+  'LBL_COMPANY' => 'Company',
 );
