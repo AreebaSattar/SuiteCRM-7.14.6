@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-02-03 08:26:25
+/* Smarty version 4.5.3, created on 2025-02-03 10:45:55
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\include\ListView\ListViewColumnsFilterDialog.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_67a06fa18f9c88_10031595',
+  'unifunc' => 'content_67a090532a8fd9_06670074',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67a06fa18f9c88_10031595 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a090532a8fd9_06670074 (Smarty_Internal_Template $_smarty_tpl) {
 if (!$_smarty_tpl->tpl_vars['columnsFilterDialogAdded']->value) {?>
     <div id="columnsFilterDialog" class="modal fade modal-columns-filter" tabindex="-1" role="dialog">
         <div class="modal-dialog modal-lg">

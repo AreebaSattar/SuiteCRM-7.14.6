@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-02-03 08:26:31
+/* Smarty version 4.5.3, created on 2025-02-03 10:45:58
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\themes\SuiteP\include\EditView\SugarVCR.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_67a06fa71ed9c5_29245178',
+  'unifunc' => 'content_67a09056566e65_27678440',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67a06fa71ed9c5_29245178 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a09056566e65_27678440 (Smarty_Internal_Template $_smarty_tpl) {
 ?><table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
         <td nowrap class="paginationWrapper">

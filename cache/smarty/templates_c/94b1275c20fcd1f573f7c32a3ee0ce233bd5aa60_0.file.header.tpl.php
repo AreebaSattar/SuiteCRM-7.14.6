@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-01-30 08:43:25
+/* Smarty version 4.5.3, created on 2025-02-03 10:45:52
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\themes\SuiteP\tpls\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_679b2d9d8078c5_40431374',
+  'unifunc' => 'content_67a09050ddd227_11958420',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:themes/SuiteP/tpls/_headerModuleList.tpl' => 1,
   ),
 ),false)) {
-function content_679b2d9d8078c5_40431374 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a09050ddd227_11958420 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("file:themes/SuiteP/tpls/_head.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 <body onMouseOut="closeMenus();">

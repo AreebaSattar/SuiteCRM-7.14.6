@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-02-03 07:37:48
+/* Smarty version 4.5.3, created on 2025-02-03 10:46:03
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\themes\SuiteP\include\EditView\EditView.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_67a0643ca8c4b7_07355615',
+  'unifunc' => 'content_67a0905b548589_97541669',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:themes/SuiteP/include/EditView/tab_panel_content.tpl' => 3,
   ),
 ),false)) {
-function content_67a0643ca8c4b7_07355615 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a0905b548589_97541669 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\crmn\\SuiteCRM-7.14.6\\include\\Smarty\\plugins\\function.sugar_include.php','function'=>'smarty_function_sugar_include',),1=>array('file'=>'C:\\xampp\\htdocs\\crmn\\SuiteCRM-7.14.6\\include\\Smarty\\plugins\\function.counter.php','function'=>'smarty_function_counter',),));
 ?>
 {*

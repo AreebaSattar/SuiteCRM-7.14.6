@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-02-03 08:26:25
+/* Smarty version 4.5.3, created on 2025-02-03 10:45:54
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\themes\SuiteP\include\SearchForm\tpls\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_67a06fa149f6d6_03274591',
+  'unifunc' => 'content_67a09052f08240_21719574',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67a06fa149f6d6_03274591 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a09052f08240_21719574 (Smarty_Internal_Template $_smarty_tpl) {
 ?>{*
 /**
  *

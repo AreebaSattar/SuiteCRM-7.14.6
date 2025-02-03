@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-02-03 08:26:24
+/* Smarty version 4.5.3, created on 2025-02-03 10:45:54
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\modules\SavedSearch\SavedSearchSelects.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_67a06fa0f0f7f8_70684178',
+  'unifunc' => 'content_67a09052a3f5a2_19265899',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67a06fa0f0f7f8_70684178 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a09052a3f5a2_19265899 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['SAVED_SEARCHES_OPTIONS']->value != null) {?>
 <select style="width: auto !important; min-width: 150px;" name='saved_search_select' id='saved_search_select' onChange='SUGAR.savedViews.shortcut_select(this, "<?php echo $_smarty_tpl->tpl_vars['SEARCH_MODULE']->value;?>
 ");'>

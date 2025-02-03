@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.3, created on 2025-02-03 08:30:32
+/* Smarty version 4.5.3, created on 2025-02-03 10:46:03
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\include\SugarFields\Fields\Int\EditView.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
-  'unifunc' => 'content_67a070989bf516_25184311',
+  'unifunc' => 'content_67a0905b7927a6_26792198',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67a070989bf516_25184311 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67a0905b7927a6_26792198 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\crmn\\SuiteCRM-7.14.6\\include\\Smarty\\plugins\\function.sugarvar.php','function'=>'smarty_function_sugarvar',),));
 ?>
 {*
