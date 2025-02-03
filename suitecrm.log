@@ -1,0 +1,25 @@
+Wed Jan 29 17:27:34 2025 [14704][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Wed Jan 29 17:27:35 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Wed Jan 29 17:27:35 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:27:49 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Wed Jan 29 17:27:49 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:27:49 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Wed Jan 29 17:27:49 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:27:49 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Wed Jan 29 17:27:49 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:27:50 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Wed Jan 29 17:27:50 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:27:50 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Wed Jan 29 17:27:50 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:27:50 2025 [14704][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Wed Jan 29 17:27:50 2025 [14704][1][FATAL] Email address save error
+Wed Jan 29 17:28:47 2025 [14704][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Wed Jan 29 17:28:47 2025 [14704][1][SECURITY] Setting logger_file_ext to '.log'.
+Wed Jan 29 17:28:47 2025 [14704][1][SECURITY] Setting logger_file_name to ''.
+Wed Jan 29 17:28:47 2025 [14704][1][SECURITY] Log file extension can't be blank.
+Wed Jan 29 17:28:47 2025 [14704][1][SECURITY] Setting logger_file_name to ''.
+Wed Jan 29 17:28:47 2025 [14704][1][SECURITY] Log file extension can't be blank.
+Wed Jan 29 18:22:18 2025 [14704][1][FATAL] Action = editLayout with unknown view=SearchView
+Wed Jan 29 18:22:29 2025 [14704][1][FATAL] Action = editLayout with unknown view=SearchView
+Wed Jan 29 18:23:20 2025 [14704][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Jan 29 18:23:20 2025 [14704][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
