@@ -1,11 +1,19 @@
 <?php
+<<<<<<< HEAD
 /* Smarty version 4.5.3, created on 2025-02-03 11:46:10
+=======
+/* Smarty version 4.5.3, created on 2025-02-03 11:36:42
+>>>>>>> 1d891e74db7c772ddb865cedb5c38478364700ca
   from 'C:\xampp\htdocs\crmn\SuiteCRM-7.14.6\themes\SuiteP\tpls\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.3',
+<<<<<<< HEAD
   'unifunc' => 'content_67a09e72aa8406_16380645',
+=======
+  'unifunc' => 'content_67a09c3a38ee99_05147733',
+>>>>>>> 1d891e74db7c772ddb865cedb5c38478364700ca
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +28,11 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
+<<<<<<< HEAD
 function content_67a09e72aa8406_16380645 (Smarty_Internal_Template $_smarty_tpl) {
+=======
+function content_67a09c3a38ee99_05147733 (Smarty_Internal_Template $_smarty_tpl) {
+>>>>>>> 1d891e74db7c772ddb865cedb5c38478364700ca
 ?></div>
 </div>
 <!-- END of container-fluid, pageContainer divs -->
