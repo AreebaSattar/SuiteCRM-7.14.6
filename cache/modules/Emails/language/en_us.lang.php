@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:33
+// created: 2025-02-03 10:54:23
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -42,7 +42,7 @@ $mod_strings = array (
   'LBL_ERROR_SELECT_MODULE' => 'Please select a module for the Related to field',
   'ERR_ARCHIVE_EMAIL' => 'Error: Select emails to archive.',
   'ERR_DELETE_RECORD' => 'Error: You must specify a record number to delete the account.',
-  'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
+  'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Companies',
   'LBL_ADD_DASHLETS' => 'Add SuiteCRM Dashlets',
   'LBL_ADD_DOCUMENT' => 'Add Documents',
   'LBL_ADD_ENTRIES' => 'Add Entries',
@@ -69,7 +69,7 @@ $mod_strings = array (
   'LBL_EMAIL_SELECTOR_SELECT' => 'Select',
   'LBL_EMAIL_SELECTOR_CLEAR' => 'Clear',
   'LBL_EMAIL' => 'Email Address:',
-  'LBL_EMAILS_ACCOUNTS_REL' => 'Emails:Accounts',
+  'LBL_EMAILS_ACCOUNTS_REL' => 'Emails:Companies',
   'LBL_EMAILS_BUGS_REL' => 'Emails:Bugs',
   'LBL_EMAILS_CASES_REL' => 'Emails:Cases',
   'LBL_EMAILS_CONTACTS_REL' => 'Emails:Contacts',

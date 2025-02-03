@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:31
+// created: 2025-02-03 10:54:20
 $mod_strings = array (
   'LBL_SECURITYGROUPS' => 'Security Groups',
   'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
@@ -42,7 +42,7 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'History',
   'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
-  'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
+  'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Companies',
   'LBL_OPPORTUNITIES_SUBPANEL_TITLE' => 'Opportunities',
   'LBL_CASES_SUBPANEL_TITLE' => 'Cases',
   'LBL_BUGS_SUBPANEL_TITLE' => 'Bugs',
@@ -129,4 +129,5 @@ $mod_strings = array (
   'LBL_AOS_QUOTES_PROJECT' => 'Quotes: Project',
   'LBL_ASCENDING' => 'Ascending',
   'LBL_DESCENDING' => 'Descending',
+  'LBL_ACCOUNTS' => 'Companies',
 );

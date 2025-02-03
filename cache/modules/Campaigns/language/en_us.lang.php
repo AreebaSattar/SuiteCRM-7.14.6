@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:32
+// created: 2025-02-03 10:54:21
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -78,7 +78,7 @@ $mod_strings = array (
   'LBL_NEW_FORM_TITLE' => 'New Campaign',
   'LBL_TRACKED_URLS' => 'Tracker URLs',
   'LBL_TRACKED_URLS_SUBPANEL_TITLE' => 'Tracker URLs',
-  'LBL_CAMPAIGN_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
+  'LBL_CAMPAIGN_ACCOUNTS_SUBPANEL_TITLE' => 'Companies',
   'LBL_PROSPECT_LIST_SUBPANEL_TITLE' => 'Target List',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'History',
   'LBL_EMAIL_MARKETING_SUBPANEL_TITLE' => 'Email Marketing',
@@ -318,7 +318,7 @@ $mod_strings = array (
   'LBL_TOP_CAMPAIGNS_DESCRIPTION' => 'Top Performing Campaigns by Revenue',
   'LBL_LEADS' => 'Leads',
   'LBL_CONTACTS' => 'Contacts',
-  'LBL_ACCOUNTS' => 'Accounts',
+  'LBL_ACCOUNTS' => 'Companies',
   'LBL_OPPORTUNITIES' => 'Opportunities',
   'LBL_LOG_ENTRIES' => 'Log Entries',
   'LBL_INVALID EMAIL_SUBPANEL_TITLE' => 'Invalid Email',

@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:33
+// created: 2025-02-03 10:54:22
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -131,4 +131,5 @@ $mod_strings = array (
   'LBL_LIST_DATE_MODIFIED' => 'Date Modified',
   'LBL_LIST_DUE_DATE' => 'Due Date',
   'LBL_RESCHEDULED_BY' => 'by',
+  'LBL_ACCOUNT' => 'Company',
 );

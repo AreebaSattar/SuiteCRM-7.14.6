@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:36
+// created: 2025-02-03 10:54:27
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -25,7 +25,7 @@ $mod_strings = array (
   'LBL_ASSIGNED_TO_NAME' => 'Contract Manager',
   'LBL_SECURITYGROUPS' => 'Security Groups',
   'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
-  'LBL_CONTRACT_ACCOUNT' => 'Account',
+  'LBL_CONTRACT_ACCOUNT' => 'Company',
   'LBL_OPPORTUNITY' => 'Opportunity',
   'LBL_LIST_FORM_TITLE' => 'Contracts List',
   'LBL_MODULE_NAME' => 'Contracts',
@@ -96,4 +96,5 @@ $mod_strings = array (
   'LBL_AOS_LINE_ITEM_GROUPS' => 'Line Item Groups',
   'LBL_AOS_PRODUCT_QUOTES' => 'Product Quotes',
   'LBL_AOS_QUOTES_AOS_CONTRACTS' => 'Quotes: Contracts',
+  'LBL_ACCOUNTS' => 'Companies',
 );

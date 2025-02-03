@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:33
+// created: 2025-02-03 10:54:23
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -131,4 +131,5 @@ $mod_strings = array (
   'LBL_REMINDERS_ADD_REMINDER' => 'Add reminder',
   'LBL_GSYNC_ID' => 'Google Event ID',
   'LBL_GSYNC_LASTSYNC' => 'Last Google Sync Timestamp',
+  'LBL_ACCOUNT' => 'Company',
 );

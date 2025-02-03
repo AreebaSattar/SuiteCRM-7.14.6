@@ -1,5 +1,5 @@
 <?php
-// created: 2025-02-03 10:45:32
+// created: 2025-02-03 10:54:22
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -34,16 +34,16 @@ $mod_strings = array (
   'LBL_INVITEE' => 'Contacts',
   'LBL_CURRENCIES' => 'Currencies',
   'LBL_LIST_OPPORTUNITY_NAME' => 'Name',
-  'LBL_LIST_ACCOUNT_NAME' => 'Account Name',
+  'LBL_LIST_ACCOUNT_NAME' => 'Company Name',
   'LBL_LIST_AMOUNT' => 'Opportunity Amount',
   'LBL_LIST_AMOUNT_USDOLLAR' => 'Amount',
   'LBL_LIST_DATE_CLOSED' => 'Close',
   'LBL_LIST_SALES_STAGE' => 'Sales Stage',
-  'LBL_ACCOUNT_ID' => 'Account ID',
+  'LBL_ACCOUNT_ID' => 'Company ID',
   'LBL_CURRENCY_NAME' => 'Currency Name',
   'LBL_CURRENCY_SYMBOL' => 'Currency Symbol',
   'UPDATE' => 'Opportunity - Currency Update',
-  'LBL_ACCOUNT_NAME' => 'Account Name:',
+  'LBL_ACCOUNT_NAME' => 'Company Name:',
   'LBL_AMOUNT' => 'Opportunity Amount:',
   'LBL_AMOUNT_USDOLLAR' => 'Amount:',
   'LBL_CURRENCY' => 'Currency:',
@@ -79,4 +79,5 @@ $mod_strings = array (
   'LBL_EDITLAYOUT' => 'Edit Layout',
   'LBL_AOS_CONTRACTS' => 'Contracts',
   'LBL_AOS_QUOTES' => 'Quotes',
+  'LBL_ACCOUNTS' => 'Companies',
 );

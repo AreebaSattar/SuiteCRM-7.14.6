@@ -23,3 +23,6 @@ Wed Jan 29 18:22:18 2025 [14704][1][FATAL] Action = editLayout with unknown view
 Wed Jan 29 18:22:29 2025 [14704][1][FATAL] Action = editLayout with unknown view=SearchView
 Wed Jan 29 18:23:20 2025 [14704][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
 Wed Jan 29 18:23:20 2025 [14704][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Mon Feb  3 10:53:45 2025 [2336][1][FATAL] Class Connectors does not exist, unable to rename.
+Mon Feb  3 10:53:45 2025 [2336][1][FATAL] Class Version does not exist, unable to rename.
+Mon Feb  3 10:53:45 2025 [2336][1][FATAL] Class CustomFields does not exist, unable to rename.
